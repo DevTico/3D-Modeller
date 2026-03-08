@@ -1,4 +1,6 @@
 # 3D-Modeller
-To use this 3D Modeller dowload the files and open VSCode Microsoft, then load the files and install the plugin/extension called
-Live Server, and it click at Run with Live Server. Then the whole website is loaded to run. It may have some bugs, but soon it 
-will get fixed
+Hey developers, I've built an open-source 3D modeler with the ability to run animations, program, and perform various other functions. If you want to test it, the requirements are: VSCode Studio installed and the extension or plugin called Live Server.
+Then load the files into VSCode to use it. This project contains several bugs, and if you find any, please report them.
+# Modelador 3D
+Opa desenvolvedores, construi um Modelador 3D de código aberto, com a habilidade de rodar animações, programar e várias outras funções. Se você deseja testa-lo, os requisitos são: Studio VSCode Instalado e a extensão ou plugin chamada Live Server.
+Em seguida carregue os arquivos no VSCode para utiliza-lo. Este projeto contém vários bugs e se encontra-los aprecio reporta-los.
